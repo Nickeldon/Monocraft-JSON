@@ -1,0 +1,16 @@
+{
+  "spec": 1,
+  "name": "Monocraft",
+  "previewText": "Monocraft fork for Ketu JSONs",
+  "main": {
+    "monocraft-Bold": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Undertale/Undertale-Bold.ttf?raw=1",
+    "monocraft-BoldItalic": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Undertale/Undertale-BoldItalic.ttf?raw=1",
+    "monocraft-ExtraBold": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Undertale/Undertale-Bold.ttf?raw=1",
+    "monocraft-ExtraBoldItalic": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Undertale/Undertale-BoldItalic.ttf?raw=1",
+  	"monocraft-Medium": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Undertale/Undertale-Medium.ttf?raw=1",
+  	"monocraft-MediumItalic": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Undertale/Undertale-MediumItalic.ttf?raw=1",
+  	"monocraft-Normal": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Undertale/Undertale-Regular.ttf?raw=1",
+  	"monocraft-NormalItalic": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Undertale/Undertale-Regular.ttf?raw=1",
+  	"monocraft-Semibold": "https://github.com/Nekitori17/bn-theme-fonts/raw/main/Undertale/Undertale-Medium.ttf?raw=1"
+  }
+}
