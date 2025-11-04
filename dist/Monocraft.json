@@ -2,15 +2,25 @@
   "spec": 1,
   "name": "Monocraft",
   "previewText": "Monocraft fork for Ketu JSONs",
-  "main": {
-    "monocraft-Bold": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Bold.ttf?raw=1",
-    "monocraft-BoldItalic": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Bold-Italic.ttf?raw=1",
-    "monocraft-ExtraBold": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Black.ttf?raw=1",
-    "monocraft-ExtraBoldItalic": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Black-Italic.ttf?raw=1",
-  	"monocraft-Medium": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Light.ttf?raw=1",
-  	"monocraft-MediumItalic": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Light-Italic.ttf?raw=1",
-  	"monocraft-Normal": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-ExtraLight.ttf?raw=1",
-  	"monocraft-NormalItalic": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-ExtraLight-Italic.ttf?raw=1",
-  	"monocraft-Semibold": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Semi-Bold.ttf?raw=1"
-  }
+  "main": { 
+    "ABCGintoNord-ExtraBold": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Bold-Italic.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Bold-Italic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Bold-Italic.ttf?raw=1",
+  	"ggsans-Medium": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Light.ttf?raw=1",
+  	"ggsans-MediumItalic": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Light-Italic.ttf?raw=1",
+  	"ggsans-Normal": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-ExtraLight.ttf?raw=1",
+  	"ggsans-NormalItalic": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-ExtraLight.ttf?raw=1",
+  	"ggsans-Semibold": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Light.ttf?raw=1",
+  	"ggsans-SemiboldItalic": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Light-Italic.ttf?raw=1",
+  	"NotoSans-Bold": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Bold.ttf?raw=1",
+  	"NotoSans-ExtraBold": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Bold.ttf?raw=1",
+  	"NotoSans-Medium": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Light.ttf?raw=1",
+  	"NotoSans-Normal": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-ExtraLight.ttf?raw=1",
+  	"NotoSans-NormalItalic": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-ExtraLight.ttf?raw=1",
+  	"NotoSans-Semibold": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Light.ttf?raw=1",
+  	"SourceCodePro-Semibold": "https://github.com/Nickeldon/Monocraft-JSON/raw/main/dist/weights/ttf/Monocraft-Light.ttf?raw=1"
+
+}
 }
